@@ -9,7 +9,7 @@ adding the ability to work with negative exponents. a feature that the original 
 I don't really know why would people use this except for maybe a calulator or something like that, but who knows?
 Maybe you'll really need that going and will find a dude on github who emplemented that, who could've thought!
 
-To use the function, download it with the command below. Now, in the sane directory as the downloaded files, you can create your own file and include the library.
+To use the function, download it with the command below. Now, in the same directory as the downloaded files, you can create your own file and include the library.
 
 ```
 // Your shell
