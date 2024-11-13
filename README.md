@@ -13,7 +13,7 @@ To use the function, download it with the command below. Now, in the sane direct
 
 ```
 // Your shell
-git clone github.com@MarkParinov/fixedPowers
+git clone https://github.com@MarkParinov/fixedPowers.git
 ```
 
 ```
